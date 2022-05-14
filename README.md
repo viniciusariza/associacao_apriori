@@ -3,7 +3,7 @@
 </div>
 
 ### Sobre
-O modelo desenvolvido tem como objetivo aplicar um algoritmo para identificar itemsets e regras de associação de produtos
+O modelo desenvolvido tem como objetivo aplicar um algoritmo para identificar itemsets e regras de associação de produtos.
 
 ### Tecnologia
 Python.
